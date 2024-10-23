@@ -1,43 +1,42 @@
 [
-    {
-      "id": 1,
-      "title": "The Art of Simplicity",
-      "cover": "https://via.placeholder.com/150x200.png?text=Cover+1",
-      "author": "Jane Doe",
-      "author_img": "https://via.placeholder.com/100x100.png?text=Jane+Doe",
-      "posted_date": "October 1, 2024",
-      "reading_time": 5,
-      "hashtags": ["minimalism", "lifestyle", "simplicity"]
-    },
-    {
-      "id": 2,
-      "title": "Exploring the Digital Future",
-      "cover": "https://via.placeholder.com/150x200.png?text=Cover+2",
-      "author": "John Smith",
-      "author_img": "https://via.placeholder.com/100x100.png?text=John+Smith",
-      "posted_date": "September 15, 2024",
-      "reading_time": 8,
-      "hashtags": ["technology", "innovation", "AI"]
-    },
-    {
-      "id": 3,
-      "title": "Healthy Living in 2024",
-      "cover": "https://via.placeholder.com/150x200.png?text=Cover+3",
-      "author": "Emily Clark",
-      "author_img": "https://via.placeholder.com/100x100.png?text=Emily+Clark",
-      "posted_date": "August 27, 2024",
-      "reading_time": 6,
-      "hashtags": ["health", "wellness", "fitness"]
-    },
-    {
-      "id": 4,
-      "title": "Mastering Remote Work",
-      "cover": "https://via.placeholder.com/150x200.png?text=Cover+4",
-      "author": "Michael Lee",
-      "author_img": "https://via.placeholder.com/100x100.png?text=Michael+Lee",
-      "posted_date": "October 10, 2024",
-      "reading_time": 7,
-      "hashtags": ["remotework", "productivity", "worklifebalance"]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "The Art of Simplicity",
+    "cover": "https://picsum.photos/200/300?random=1",
+    "author": "Jane Doe",
+    "author_img": "https://i.pravatar.cc/100?img=1",
+    "posted_date": "October 1, 2024",
+    "reading_time": 5,
+    "hashtags": ["minimalism", "lifestyle", "simplicity"]
+  },
+  {
+    "id": 2,
+    "title": "Exploring the Digital Future",
+    "cover": "https://picsum.photos/200/300?random=2",
+    "author": "John Smith",
+    "author_img": "https://i.pravatar.cc/100?img=2",
+    "posted_date": "September 15, 2024",
+    "reading_time": 8,
+    "hashtags": ["technology", "innovation", "AI"]
+  },
+  {
+    "id": 3,
+    "title": "Healthy Living in 2024",
+    "cover": "https://picsum.photos/200/300?random=3",
+    "author": "Emily Clark",
+    "author_img": "https://i.pravatar.cc/100?img=3",
+    "posted_date": "August 27, 2024",
+    "reading_time": 6,
+    "hashtags": ["health", "wellness", "fitness"]
+  },
+  {
+    "id": 4,
+    "title": "Mastering Remote Work",
+    "cover": "https://picsum.photos/200/300?random=4",
+    "author": "Michael Lee",
+    "author_img": "https://i.pravatar.cc/100?img=4",
+    "posted_date": "October 10, 2024",
+    "reading_time": 7,
+    "hashtags": ["remotework", "productivity", "worklifebalance"]
+  }
+]
