@@ -9,14 +9,14 @@ const Bookmarks = ({bookmarks, readTime}) => {
             </div>
            <h2 className="text-3xl text-center">Bookmarked Blogs:{bookmarks.length}</h2>
            {
-            bookmarks.map(bookmark => <Bookmark key={bookmark.id} bookmark={bookmark}></Bookmark>)
+            bookmarks.map((bookmark, idx) => <Bookmark key={idx} bookmark={bookmark}></Bookmark>)
            } 
         </div>
     );
 };
 
 Bookmarks.propTypes = {
-    bookmarks: PropTypes.object,
+    bookmarks: PropTypes.array,
     readTime: PropTypes.number
 }
 
